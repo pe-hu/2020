@@ -1,0 +1,180 @@
+html {
+    font-size: 16px;
+    height: -webkit-fill-available;
+}
+
+@media (orientation: portrait) {
+    html {
+        font-size: 2.5vw;
+        height: -webkit-fill-available;
+    }
+}
+
+body,
+#cover section h2,
+#cover section h3,
+footer nav p,
+footer img {
+    padding: 0;
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+header,
+#cover section {
+    pointer-events: none;
+    user-select: none;
+}
+
+@font-face {
+    font-family: "Yu Gothic";
+    src: url("../thankyou/YuGothR.ttc");
+}
+
+@font-face {
+    font-family: "Arial";
+    src: url("../thankyou/Arial.ttf");
+}
+
+h1 u,
+header,
+#cover section {
+    font-family: "Arial", "Yu Gothic", sans-serif;
+    font-weight: 600;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 b {
+    font-size: 444%;
+}
+
+.marquee,
+#cover section h2,
+#cover section h3 {
+    font-size: 111%;
+}
+
+#cover section h2,
+#cover section h3 {
+    color: #fff;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+header,
+#cover {
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+header {
+    z-index: 2;
+}
+
+#cover {
+    position: relative;
+    padding: 5rem;
+    z-index: 1;
+}
+
+#cover section {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 5rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    z-index: 5;
+}
+
+footer nav,
+footer section {
+    margin: 0 2.4rem 2.4rem;
+}
+
+footer nav {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    padding: 1rem 2rem;
+    align-items: start;
+    justify-content: space-between;
+}
+
+footer nav strong {
+    font-size: 150%;
+}
+
+footer #img {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: pointer;
+    height: calc(100vh - 2.4rem);
+    overflow: hidden;
+}
+
+.marquee {
+    appearance: none;
+    background: #fff;
+    color: #000;
+    border: none;
+    outline: none;
+    font-family: inherit;
+    padding: 0.321rem;
+    margin: 0;
+    position: absolute;
+    z-index: 0;
+}
+
+.marquee#top,
+.marquee#bottom {
+    width: 100%;
+}
+
+.marquee#left,
+.marquee#right {
+    width: 100vh;
+}
+
+.marquee#top {
+    top: 0;
+}
+
+.marquee#bottom {
+    bottom: 0;
+    transform: rotate(180deg);
+}
+
+.marquee#left {
+    top: 100%;
+    transform-origin: left top;
+    transform: rotate(270deg);
+}
+
+.marquee#right {
+    top: 100%;
+    right: 0;
+    transform-origin: right top;
+    transform: rotate(90deg);
+}
+
+#programe {
+    max-height: 51vw;
+    overflow: hidden;
+}

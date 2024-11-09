@@ -1,0 +1,48 @@
+.programes {
+    font-family: "Arial", "Yu Gothic", sans-serif;
+    display: flex;
+    gap: 0.25rem;
+    flex-flow: column;
+    justify-content: center;
+}
+
+.programes button,
+.programes a {
+    appearance: none;
+    color: #111;
+    background: #fff;
+    border: solid 1px;
+    border-radius: 3rem;
+    outline: none;
+    padding: 0.25rem 1rem;
+    margin: 0;
+    font-family: inherit;
+    font-size: 111%;
+    font-weight: 555;
+    text-align: left;
+    line-height: 150%;
+}
+
+.programes button {
+    cursor: help;
+}
+
+#programe button {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
+
+#programe {
+    padding: 0;
+    width: 90vw;
+    max-width: 75rem;
+    height: 90vh;
+}
+
+#programe iframe {
+    border: none;
+    outline: none;
+    width: 100%;
+    height: 100%;
+}

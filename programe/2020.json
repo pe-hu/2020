@@ -1,0 +1,150 @@
+{
+    "date": "2020.3.29 - 2021.1.31 & 2021.4.3",
+    "title": "大 chotto crazy 2020",
+    "by": [
+        "クリエイティブ・コミュニティースペース ペフ"
+    ],
+    "progress": "100",
+    "schedule": [
+        {
+            "status": "done",
+            "date": "2020.3.29 - 5.15",
+            "text": "あなたの「実現したいこと」の公募を実施"
+        },
+        {
+            "status": "done",
+            "date": "2020.5.30 - 5.31",
+            "text": "プログラム選考会議を YouTube Live にて生配信"
+        },
+        {
+            "status": "done",
+            "date": "2020.7.4 - 7.22",
+            "text": "「実現したいこと」応募者の皆様と個人面談を実施",
+            "html": [
+                "<iframe src='https://www.youtube.com/embed/oPdOnxVfj-8' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
+            ]
+        },
+        {
+            "status": "done",
+            "date": "2020.9.27",
+            "text": "大 chotto crazy 2020 公式プログラム 20 の 実現したいこと を オンライン発表"
+        },
+        {
+            "status": "done",
+            "date": "2020.9.27",
+            "text": "17名のプログラム採用者「ちょっとクレイジーな仲間たち」を オンライン発表"
+        },
+        {
+            "status": "done",
+            "date": "2020.9.27",
+            "text": "「ちょっとクレイジーな仲間たち」の 10の質問 を オンライン発表"
+        },
+        {
+            "status": "done",
+            "date": "2020.9.27",
+            "text": "Ro / Chris Shields の実現したいことを、キャッチコピーとして採用し、メッセージ広告を制作",
+            "html": [
+                "<img src='../thankyou/cover.png'>"
+            ]
+        },
+        {
+            "status": "done",
+            "date": "2020.10.15",
+            "text": "大切にすることを大切にするための展覧会 第一弾をオンライン発表",
+            "href": "../ccm/?value=20201015"
+        },
+        {
+            "status": "done",
+            "date": "2020.10.15",
+            "text": "こす のための50の質問をオンライン発表"
+        },
+        {
+            "status": "done",
+            "date": "2020.11.1",
+            "text": "プレイベント「こす」を開催",
+            "html": [
+                "<iframe src='https://www.youtube.com/embed/0QaTxCU5gAg' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
+            ]
+        },
+        {
+            "status": "done",
+            "date": "2020.11.1",
+            "text": "展覧会・アトラクション「大大大 chotto crazy 2020 MAX」の詳細をオンライン発表"
+        },
+        {
+            "status": "done",
+            "date": "2020.11.15",
+            "text": "大切にすることを大切にするための展覧会 第二弾をオンライン発表",
+            "href": "../ccm/?value=20201115"
+        },
+        {
+            "status": "done",
+            "date": "2020.11.15",
+            "text": "アクティブパークの詳細をオンライン発表",
+            "href": "../otobuil/beta/"
+        },
+        {
+            "status": "done",
+            "date": "2020.11.15",
+            "text": "アクティブパークのための50の質問をオンライン発表"
+        },
+        {
+            "status": "done",
+            "date": "2021.12.1",
+            "text": "大切にすることを大切にするための展覧会 第三弾をオンライン発表",
+            "href": "../ccm/?value=20201201"
+        },
+        {
+            "status": "done",
+            "date": "2021.12.1",
+            "text": "暗室／ステージの詳細をオンライン発表",
+            "href": "../otobuil/main/"
+        },
+        {
+            "status": "done",
+            "date": "2021.12.1",
+            "text": "暗室／ステージのための50の質問をオンライン発表"
+        },
+        {
+            "status": "done",
+            "date": "2020.12.11",
+            "text": "大阪府・国の感染症拡大防止対策ガイドラインに基づく、コロナ対策チェックシートを作成",
+            "html": [
+                "<iframe src='../otobuil/covid19.pdf' style='height:75vh;'></iframe>"
+            ]
+        },
+        {
+            "status": "done",
+            "date": "2020.12.11",
+            "text": "大大大 chotto crazy 2020 MAX での実現を 中止／延期・実現方法を変更するプログラムを決定"
+        },
+        {
+            "status": "done",
+            "date": "2020.12.15",
+            "text": "大大大 chotto crazy 2020 MAXのための50の質問をオンライン発表"
+        },
+        {
+            "status": "done",
+            "date": "2020.12.15",
+            "text": "大切にすることを大切にするための展覧会 第四弾をオンライン発表",
+            "href": "../ccm/?value=20201215"
+        },
+        {
+            "status": "done",
+            "date": "2021.1.16",
+            "text": "感染症拡大防止対策をまとめた「MAXチェックシート」を作成",
+            "html": [
+                "<iframe src='../otobuil/maxcheck.pdf' style='height:75vh;'></iframe>"
+            ]
+        },
+        {
+            "status": "done",
+            "date": "2021.1.16 - 1.31",
+            "text": "展覧会・アトラクション「大大大 chotto crazy 2020 MAX」を開催",
+            "href": "../otobuil/",
+            "html": [
+                "<iframe src='https://www.youtube.com/embed/GO6Kg5FrCr4' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no" />
+    <link rel="icon" href="icon.png" type="png">
+
+    <!--og:meta-->
+    <meta content="website" property="og:type">
+    <title>暗室／ステージ | 大大大 chotto crazy 2020 MAX</title>
+    <meta content="暗室／ステージ | 大大大 chotto crazy 2020 MAX" property="og:title">
+    <meta content="2021.1.16-31 音ビル 2F A室 自己表現のステージ・コミュニケーションの暗室" name="description">
+    <meta content="2021.1.16-31 音ビル 2F A室 自己表現のステージ・コミュニケーションの暗室" name="og:description">
+    <meta property="og:image" content="card.png" />
+
+    <link rel="stylesheet" href="../../thankyou/style.css">
+    <link rel="stylesheet" href="../../programe/style.css">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="css/animation.css">
+    <link rel="stylesheet" href="css/room.css">
+
+    <script>
+        let directory = "../../";
+    </script>
+    <script src="index.js"></script>
+</head>
+
+<body>
+    <main id="room">
+        <h1>
+            <u>2021.1.16-1.31</u><br>
+            <strong>
+                <b>音ビル</b><br>
+                2F
+                <i>A室</i>
+            </strong>
+        </h1>
+        <h2>相手を満足させることや、好かれよう／嫌われようと相手を意識しコミュニケーションをはかるのではなく、素直に、正直に、自分の気持ちを伝えるための場所</h2>
+        <ul id="shiba" onclick="onOff()">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+        <p id="stage" class="programes" hidden>
+            <strong>公式プログラム</strong>
+            <button type="button">靴の上から靴を履く</button>
+            <button type="button" value="Jj2TT06__kY">芝浴</button>
+            <button type="button" value="_wYnDz8UW4Y">何人かで「ラ（だと思う音）」の音合わせをしたい</button>
+            <strong>を実現します</strong>
+            <br />
+            <strong>感染症拡大防止ガイドラインに基づき</strong>
+            <button type="button">音の出るものをいっぱい並べる</button>
+            <strong>実現中止を決定しました</strong>
+        </p>
+
+        <h3>誰にでもできることを、自分らしく、自然に<br>特別な技能を披露することではなく、その人らしさを表現する場所</h3>
+        <ul id="ansitsu" onclick="inOut()">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+        <p id="communication" class="programes" hidden>
+            <strong>公式プログラム</strong>
+            <button type="button" value="LbUAkZKk4Ag">暗闇でおしゃべりしたい</button>
+            <button type="button" value="l4sH_tPJbHk">記憶の重ね合わせ／とある風景に付随する記憶や感情</button>
+            <strong>を実現します</strong>
+        </p>
+
+        <div id="wall"></div>
+    </main>
+
+    <dialog id="programe">
+        <button type="close">閉じる</button>
+        <div id="player"></div>
+    </dialog>
+    <script src="../../youtube/dialog.js"></script>
+</body>

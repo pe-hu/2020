@@ -1,0 +1,101 @@
+.vertical strong,
+.vertical small {
+    display: block;
+}
+
+.ja,
+.ja_app {
+    font-family: "YuGothic", "Yu Gothic", "Hiragino Kaku Gothic ProN", "Hiragino Sans", sans-serif;
+}
+
+.vertical,
+.ja_app {
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+}
+
+h3.vertical {
+    font-size: 90%;
+    margin: 1rem 0.5rem;
+}
+
+h3.vertical {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: max-content;
+    height: max-content;
+}
+
+.value button {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+
+.value {
+    font-size: 111%;
+    display: flex;
+    flex-flow: column wrap;
+    padding-right: 2.5rem;
+    place-items: center;
+    position: relative;
+    width: 100%;
+    overflow-y: hidden;
+}
+
+@media (orientation: portrait) {
+    html {
+        min-height: -webkit-fill-available;
+    }
+}
+
+.value[hidden] {
+    display: none;
+}
+
+.value button {
+    color: #000;
+    background: transparent;
+    font-size: 111%;
+    padding: 1rem;
+    place-self: flex-end left;
+}
+
+.value img {
+    place-self: flex-start;
+    filter: blur(1rem);
+    transition: filter 2s;
+    margin: 2.5rem auto 4.5rem;
+    max-width: calc(100% - 7.5rem);
+    max-height: calc(100vh - 7.5rem);
+}
+
+.value img:hover {
+    filter: blur(0);
+}
+
+.ja_app {
+    font-size: 90%;
+    line-height: 200%;
+    padding: 2.5rem 1rem 5rem;
+    margin: auto;
+    width: 100%;
+    height: 100vh;
+    max-width: 1000px;
+    max-height: -webkit-fill-available;
+    place-self: start;
+    overflow: auto;
+}
+
+@media screen and (max-width: 1000px) {
+    .value {
+        padding-right: 7.5%;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .value[hidden] {
+        padding-right: 12.5%;
+    }
+}

@@ -1,0 +1,79 @@
+#room,
+h2,
+h3,
+#shiba,
+#ansitsu,
+#wall {
+    transition: all 2.5s;
+}
+
+#shiba:hover,
+#ansitsu:hover {
+    box-shadow: yellow 0 0 10rem;
+    cursor: pointer;
+}
+
+#on,
+#on #room {
+    background: green;
+}
+
+#on #wall {
+    height: 40vh;
+}
+
+#on h2 {
+    display: none;
+}
+
+#on #ansitsu,
+#on #shiba li {
+    opacity: 0;
+    user-select: none;
+    pointer-events: none;
+}
+
+#in,
+#in #wall {
+    background: #111;
+}
+
+#in h2 {
+    color: #eee;
+}
+
+#in #wall {
+    height: 150vh;
+}
+
+#in h3 {
+    display: none;
+}
+
+#in #shiba,
+#in #ansitsu li {
+    opacity: 0;
+    user-select: none;
+    pointer-events: none;
+}
+
+#stage strong {
+    color: #fff;
+    -webkit-text-stroke: 0.025rem green;
+    text-stroke: 0.025rem green;
+}
+
+#communication strong {
+    color: 111#fff;
+    -webkit-text-stroke: 0.025rem #fff;
+    text-stroke: 0.025rem #fff;
+}
+
+.programs strong {
+    font-size: 150%;
+    display: inline-block;
+    transform: scale(1, 2);
+    margin: 1rem 0;
+    pointer-events: none;
+    user-select: none;
+}
