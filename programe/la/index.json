@@ -7,12 +7,12 @@
     ],
     "progress": "100",
     "text": [
-        "オーケストラやアカペラが音合わせをするように、みんながお互いの音を聴き、合わせられるようになったら何か起こるんじゃないか。",
-        "そんな願いを込め、実際に何人かで「ラ（だと思う音）」の音合わせをしたい。",
-        "",
-        "難しいかもしれないし、簡単かもしれない。",
-        "けれどバラバラな私たちが、それぞれの声で音を合わせる。",
-        "それはまるで、平和な世界への第一歩のような...",
+        "オーケストラやアカペラが音合わせをするように、みんながお互いの音を聴き、合わせられるようになったら何か起こるんじゃないか。<br/>",
+        "そんな願いを込め、実際に何人かで「ラ（だと思う音）」の音合わせをしたい。<br/>",
+        "<br/>",
+        "難しいかもしれないし、簡単かもしれない。<br/>",
+        "けれどバラバラな私たちが、それぞれの声で音を合わせる。<br/>",
+        "それはまるで、平和な世界への第一歩のような...<br/>",
         "そんな思いからこの企画が始まりました。"
     ],
     "schedule": [
@@ -20,25 +20,19 @@
             "date": "2020.9.5",
             "text": "初めての音合わせを実施",
             "status": "done",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/_wYnDz8UW4Y' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "youtube": "_wYnDz8UW4Y"
         },
         {
             "date": "2020.10.24",
             "text": "葭村太一と音合わせを実施",
             "status": "done",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/oHYcrUsGrKs' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "youtube": "oHYcrUsGrKs"
         },
         {
             "date": "2020.11.2",
             "text": "Bug Bus Pianoとオンライン音合わせを実施",
             "status": "done",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/Ae3hYRqoX6k' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "youtube": "Ae3hYRqoX6k"
         },
         {
             "date": "2020.12.15",
@@ -52,9 +46,7 @@
             "date": "2021.1.30",
             "text": "大大大 chotto crazy 2020 MAX LIVE にて オンライン音合わせを実現",
             "status": "done",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/UqDFO3PFcPA' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "youtube": "UqDFO3PFcPA"
         }
     ]
 }

@@ -7,7 +7,7 @@
     ],
     "progress": "0",
     "text": [
-        "覚えていない誰かが生活感を出した時に見えた、その人らしさに憧れを持った。",
+        "覚えていない誰かが生活感を出した時に見えた、その人らしさに憧れを持った。<br>",
         "その人らしい自然な姿、無意識な動きが見たい。"
     ],
     "schedule": [
@@ -15,9 +15,7 @@
             "date": "2020.10.4",
             "text": "靴の上から靴を履く練習を実施",
             "status": "done",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/LPlODq-ZKTE' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "youtube": "LPlODq-ZKTE"
         },
         {
             "date": "2020.10.19",

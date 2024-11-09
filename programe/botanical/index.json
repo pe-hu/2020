@@ -14,9 +14,7 @@
             "date": "2020.10.11",
             "text": "サボテン植え替え大会のための植物の買い出しを実施",
             "status": "done",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/YxUCCEZE0Zc' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "youtube": "YxUCCEZE0Zc"
         },
         {
             "date": "2020.10.15",

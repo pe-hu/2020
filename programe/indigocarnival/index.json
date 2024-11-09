@@ -7,8 +7,8 @@
     ],
     "progress": "40",
     "text": [
-        "「藍は青よりアオし」と申しまして、その美しさは誰もが認めるものですが、それを自ら行うとなるとそれなりに大がかりなものとなりまして、駆け出しの染色家の私も容易には挑戦はできません。",
-        "知識はあれど実行できないこのもどかしさ、皆に知って欲しい染色のおもしろさ。ラバーダックの首に藍のストールを巻く野望。",
+        "「藍は青よりアオし」と申しまして、その美しさは誰もが認めるものですが、それを自ら行うとなるとそれなりに大がかりなものとなりまして、駆け出しの染色家の私も容易には挑戦はできません。<br>",
+        "知識はあれど実行できないこのもどかしさ、皆に知って欲しい染色のおもしろさ。ラバーダックの首に藍のストールを巻く野望。<br>",
         "今回は市販のアイでの建染めと、現在育成しているタデアイでの生葉染めとなる予定ですが、もし、来年もあるのならば、来年はスクモ作りから始めたいです。"
     ],
     "schedule": [
@@ -16,17 +16,13 @@
             "date": "2020.9.13",
             "text": "タデアイの収穫を実施",
             "status": "done",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/1OQfTfKUhNo' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "youtube": "1OQfTfKUhNo"
         },
         {
             "date": "2020.11.28",
             "text": "藍で染めよう祭りの練習を実施",
             "status": "done",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/Ps2yJRH8fjo' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "youtube": "Ps2yJRH8fjo"
         },
         {
             "date": "2020.12.3",

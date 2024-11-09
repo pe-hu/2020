@@ -7,10 +7,10 @@
     ],
     "progress": "50",
     "text": [
-        "「なんとなく思いついたこと」、「それとなくやってみたこと」、こうした事柄がのちになにかしらの印象となって心に残っていく、ということがあります。",
-        "僕が手づくりの凧を空に飛ばしたいと思ったこともこうした些細な出来事がきっかけとなって思いついたことでした。",
-        "",
-        "手づくりの凧を作り、それを真上の空から複数の場所・時間に写しとられた映像の空へとつなぐ、一連の実験。",
+        "「なんとなく思いついたこと」、「それとなくやってみたこと」、こうした事柄がのちになにかしらの印象となって心に残っていく、ということがあります。<br>",
+        "僕が手づくりの凧を空に飛ばしたいと思ったこともこうした些細な出来事がきっかけとなって思いついたことでした。<br>",
+        "<br>",
+        "手づくりの凧を作り、それを真上の空から複数の場所・時間に写しとられた映像の空へとつなぐ、一連の実験。<br>",
         "ひとつの偶然から生まれた、この空に関する一連の実験が誰かの心象風景となって心に残ることがあるのだとしたら、僕はそれをとても嬉しく思います。"
     ],
     "schedule": [
@@ -30,10 +30,7 @@
         {
             "date": "2021.1.17 - 29",
             "text": "ACTIVE PARK LIVE にて、手作りの空の映像を生配信",
-            "status": "done",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/zQixonPdOg0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "status": "done"
         },
         {
             "date": "2020.12.11",
@@ -49,9 +46,7 @@
             "date": "2021.1.30",
             "text": "大大大 chotto crazy 2020 MAX LIVE にて、映像作品 を生配信",
             "status": "done",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/UqDFO3PFcPA' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "youtube": "UqDFO3PFcPA"
         }
     ]
 }

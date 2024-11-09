@@ -17,10 +17,35 @@
 
 	<link rel="stylesheet" href="../thankyou/style.css">
 	<link rel="stylesheet" href="index.css">
+	<style>
+		dialog button {
+			position: absolute;
+			top: 1rem;
+			right: 1rem;
+			z-index: 10;
+		}
+
+		dialog {
+			padding: 0;
+			width: 90vw;
+			height: 90dvh;
+			max-width: 75rem;
+			max-height: 51vw;
+		}
+
+		dialog iframe {
+			position: absolute;
+			border: none;
+			outline: none;
+			width: 100%;
+			height: 100%;
+		}
+	</style>
 
 	<script>
 		let topic = "大 chotto crazy 2020 公式プログラム 「20の実現したいこと」のうち、14の実現したいことを実現／6の実現したいことを実現中止しました。 ",
-			speed = 400;
+			speed = 400,
+			videoId;
 	</script>
 	<script src="index.js"></script>
 </head>
@@ -53,6 +78,20 @@
 			</span>
 		</h2>
 	</nav>
+
+	<dialog>
+		<button type="close" onclick="dialogClose()">閉じる</button>
+		<div id="player"></div>
+	</dialog>
+
+	<script src="../youtube/script.js"></script>
+	<script src="../youtube/video.js"></script>
+	<script>
+		function dialogClose() {
+			document.querySelector('dialog').close();
+			player.stopVideo();
+		};
+	</script>
 </body>
 
 </html>

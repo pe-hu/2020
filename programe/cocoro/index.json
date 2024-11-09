@@ -7,10 +7,10 @@
     ],
     "progress": "100",
     "text": [
-        "日常は音で溢れてかえっていました。<br/>けれど今年以降、音は以前よりあまり聞こえなくなってきました。",
-        "目に見えないもののせいで音までが奪われてしまったのです。",
-        "",
-        "今回はその日常にあふれていた音場を再現する試みです。",
+        "日常は音で溢れてかえっていました。<br/>けれど今年以降、音は以前よりあまり聞こえなくなってきました。<br/>",
+        "目に見えないもののせいで音までが奪われてしまったのです。<br/>",
+        "<br/>",
+        "今回はその日常にあふれていた音場を再現する試みです。<br/>",
         "但し楽器は使いません。100円ショップやアマゾンで安く売っているような音の出るものを大量に使用し、時には見に来られた人も参加できる試みを行います。"
     ],
     "schedule": [
@@ -18,9 +18,7 @@
             "date": "2020.9.19",
             "text": "ダイソー南津守店にて、音の出るものの買い物を実施",
             "status": "done",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/N4aYdVcuSS0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "youtube": "N4aYdVcuSS0"
         },
         {
             "date": "2021.1.24",
@@ -37,7 +35,8 @@
         {
             "date": "2021.4.3",
             "text": "音の出るものをいっぱい並べる音楽会「こゝろ」を開催",
-            "status": "done"
+            "status": "done",
+            "href": "../cocoro/"
         }
     ]
 }

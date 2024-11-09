@@ -7,9 +7,9 @@
     ],
     "progress": "100",
     "text": [
-        "「やりたいと思っていることを応援する」という気持ちに強く共感し、私も誰かのやりたいことを盛り上げ協力したいとこのアイデアを応募しました。",
-        "",
-        "各プログラムのタイトルや概要から内容を想像し、そのイメージを基に楽曲を制作／提供。",
+        "「やりたいと思っていることを応援する」という気持ちに強く共感し、私も誰かのやりたいことを盛り上げ協力したいとこのアイデアを応募しました。<br/>",
+        "<br/>",
+        "各プログラムのタイトルや概要から内容を想像し、そのイメージを基に楽曲を制作／提供。<br/>",
         "それらの楽曲をまとめたミニアルバム「大 chotto crazy 2020」をリリースします。"
     ],
     "schedule": [
@@ -17,9 +17,7 @@
             "date": "2020.9.27",
             "text": "大 chotto crazy 2020 に楽曲「大 chotto crazy」を提供",
             "status": "done",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/oPdOnxVfj-8' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "youtube": "oPdOnxVfj-8"
         },
         {
             "date": "2020.12.15",

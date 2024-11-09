@@ -20,9 +20,7 @@
             "status": "done",
             "date": "2020.7.4 - 7.22",
             "text": "「実現したいこと」応募者の皆様と個人面談を実施",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/oPdOnxVfj-8' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "youtube": "oPdOnxVfj-8"
         },
         {
             "status": "done",
@@ -62,9 +60,7 @@
             "status": "done",
             "date": "2020.11.1",
             "text": "プレイベント「こす」を開催",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/0QaTxCU5gAg' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "youtube": "0QaTxCU5gAg"
         },
         {
             "status": "done",
@@ -142,9 +138,7 @@
             "date": "2021.1.16 - 1.31",
             "text": "展覧会・アトラクション「大大大 chotto crazy 2020 MAX」を開催",
             "href": "../otobuil/",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/GO6Kg5FrCr4' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "youtube": "GO6Kg5FrCr4"
         }
     ]
 }

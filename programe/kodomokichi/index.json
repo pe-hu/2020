@@ -7,7 +7,7 @@
     ],
     "progress": "95",
     "text": [
-        "<b>【こども基地協会とは】</b>",
+        "<b>【こども基地協会とは】</b><br>",
         "身近な材料で作られた簡単な遊具や遊び場を「こども基地」と呼び、こども基地を作る楽しみ、こどもの様に遊ぶ楽しさを普及させることを目指す協会です。"
     ],
     "schedule": [
@@ -15,9 +15,7 @@
             "date": "2020.10.4 & 11.15",
             "text": "「ピニャータを作ってみよう」をオンライン開催",
             "status": "done",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/mg6hORb0dao' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "youtube": "mg6hORb0dao"
         },
         {
             "date": "2020.11.15",
@@ -38,10 +36,7 @@
         {
             "date": "2020.11.16 - 11.30",
             "text": "アクティブパークの制作を実施",
-            "status": "done",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/3qw97NRTh0c' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "status": "done"
         },
         {
             "date": "2021.1.16",
@@ -68,25 +63,19 @@
             "date": "2021.1.17 - 1.29",
             "text": "YouTube Live にて、ACTIVE PARK LIVE の生配信を実施",
             "status": "done",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/zQixonPdOg0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "youtube": "3qw97NRTh0c"
         },
         {
             "date": "2021.1.30",
             "text": "大大大 chotto crazy 2020 MAX LIVE にて、落とし穴の制作を生配信",
             "status": "done",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/UqDFO3PFcPA' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "youtube": "UqDFO3PFcPA"
         },
         {
             "date": "2021.1.31",
             "text": "大大大 chotto crazy 2020 MAX 閉会式 にて、落とし穴に落ちる／アクティブパークを破壊する様子を生配信",
             "status": "done",
-            "html": [
-                "<iframe src='https://www.youtube.com/embed/ihGB3CWPljc' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;' style='height:47.5vw;' allowfullscreen></iframe>"
-            ]
+            "youtube": "ihGB3CWPljc"
         }
     ]
 }
